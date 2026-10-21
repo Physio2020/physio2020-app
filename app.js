@@ -19,7 +19,7 @@ $('copy').onclick=async()=>{try{await navigator.clipboard.writeText(planText());
 $('print').onclick=()=>{if(!plan.length){alert('Bitte zuerst Übungen auswählen.');return;}const root=$('printArea');root.replaceChildren();
 if(plan.length===3&&plan.every((v,i)=>v.id===['0001','0002','0003'][i])){
  const page=document.createElement('section');page.className='print-page print-original';
- const bg=document.createElement('img');bg.src='./vorlage.png';bg.alt='Freigegebene PHYSIO-2020-Vorlage';page.append(bg);
+ const bg=document.createElement('img');bg.src='./vorlage.png?v=4';bg.alt='Freigegebene PHYSIO-2020-Vorlage';page.append(bg);
  for(const v of plan){const d=document.createElement('div');d.className='original-dose';
  for(const line of [v.freq+'× pro Woche',v.sets+' Sätze',v.reps+' Wiederholungen']){const x=document.createElement('span');x.textContent='• '+line;d.append(x);}page.append(d);}
  root.append(page);showPreview();return;

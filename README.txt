@@ -1,6 +1,9 @@
-PHYSIO 2020 – Layout-Test v2
+PHYSIO 2020 – Drucklayout Version 4 (21.10.2026)
 
-Alle 7 Dateien in das GitHub-Repository hochladen und bestehende Dateien ersetzen.
-Bei der Auswahl exakt 0001, 0002, 0003 in dieser Reihenfolge erscheint die freigegebene bebilderte Vorlage mit individuellen Trainingswerten. Andere Kombinationen verwenden weiterhin die einfache Entwurfs-Druckansicht.
-Die Vorlage ist als Bild eingebunden; der Druck ist noch kein vollwertiger allgemeiner PDF-Generator.
-Nach GitHub-Aktualisierung App mit Internet öffnen und anschließend Offline-Betrieb erneut prüfen.
+Alle sieben Dateien in das Stammverzeichnis des bestehenden GitHub-Repositories hochladen und Änderungen speichern.
+
+Test: App direkt in Safari öffnen, 0001, 0002, 0003 in dieser Reihenfolge hinzufügen, Druckansicht öffnen. Die bebilderte Originalvorlage soll auf genau einer A4-Seite erscheinen.
+
+Nur die Dreierkombination 0001–0003 hat die freigegebene bebilderte Vorlage. Andere Kombinationen bleiben Textentwürfe.
+
+Hinweis: Der iPad-Druckdialog kann die Druckausgabe je nach Safari-Version unterschiedlich behandeln.
