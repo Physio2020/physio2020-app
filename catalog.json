@@ -1,0 +1,488 @@
+[
+  {
+    "id": "0001",
+    "name": "Außenrotation mit Theraband",
+    "region": "Schulter",
+    "approved": true
+  },
+  {
+    "id": "0002",
+    "name": "Scaption ohne Gewicht",
+    "region": "Schulter",
+    "approved": true
+  },
+  {
+    "id": "0003",
+    "name": "Wall Slides",
+    "region": "Schulter",
+    "approved": true
+  },
+  {
+    "id": "0004",
+    "name": "Schulterpendeln",
+    "region": "Schulter",
+    "approved": false
+  },
+  {
+    "id": "0005",
+    "name": "Außenrotation in Seitenlage",
+    "region": "Schulter",
+    "approved": false
+  },
+  {
+    "id": "0006",
+    "name": "Innenrotation mit Theraband",
+    "region": "Schulter",
+    "approved": false
+  },
+  {
+    "id": "0007",
+    "name": "Schulterblatt-Retraktion mit Band",
+    "region": "Schulter",
+    "approved": false
+  },
+  {
+    "id": "0008",
+    "name": "Wandliegestütz",
+    "region": "Schulter",
+    "approved": false
+  },
+  {
+    "id": "0009",
+    "name": "Brustdehnung am Türrahmen",
+    "region": "Schulter",
+    "approved": false
+  },
+  {
+    "id": "0010",
+    "name": "Schulterflexion mit Stab",
+    "region": "Schulter",
+    "approved": false
+  },
+  {
+    "id": "0011",
+    "name": "Schulter-Außenrotation isometrisch",
+    "region": "Schulter",
+    "approved": false
+  },
+  {
+    "id": "0012",
+    "name": "Schulter-Innenrotation isometrisch",
+    "region": "Schulter",
+    "approved": false
+  },
+  {
+    "id": "0013",
+    "name": "Serratus Punch in Rückenlage",
+    "region": "Schulter",
+    "approved": false
+  },
+  {
+    "id": "0014",
+    "name": "Y-Heben in Bauchlage",
+    "region": "Schulter",
+    "approved": false
+  },
+  {
+    "id": "0015",
+    "name": "T-Heben in Bauchlage",
+    "region": "Schulter",
+    "approved": false
+  },
+  {
+    "id": "0016",
+    "name": "Kinn zurückziehen",
+    "region": "HWS",
+    "approved": false
+  },
+  {
+    "id": "0017",
+    "name": "Kopfrotation im Sitzen",
+    "region": "HWS",
+    "approved": false
+  },
+  {
+    "id": "0018",
+    "name": "Seitneigung der HWS",
+    "region": "HWS",
+    "approved": false
+  },
+  {
+    "id": "0019",
+    "name": "Isometrische Nackenflexion",
+    "region": "HWS",
+    "approved": false
+  },
+  {
+    "id": "0020",
+    "name": "Isometrische Nackenextension",
+    "region": "HWS",
+    "approved": false
+  },
+  {
+    "id": "0021",
+    "name": "Levator-scapulae-Dehnung",
+    "region": "HWS",
+    "approved": false
+  },
+  {
+    "id": "0022",
+    "name": "Oberer-Trapezius-Dehnung",
+    "region": "HWS",
+    "approved": false
+  },
+  {
+    "id": "0023",
+    "name": "Brustwirbelsäulenrotation in Seitenlage",
+    "region": "BWS",
+    "approved": false
+  },
+  {
+    "id": "0024",
+    "name": "Katze-Kuh im Vierfüßlerstand",
+    "region": "BWS",
+    "approved": false
+  },
+  {
+    "id": "0025",
+    "name": "BWS-Extension über Stuhllehne",
+    "region": "BWS",
+    "approved": false
+  },
+  {
+    "id": "0026",
+    "name": "Rudern mit Theraband",
+    "region": "BWS",
+    "approved": false
+  },
+  {
+    "id": "0027",
+    "name": "Thread the Needle",
+    "region": "BWS",
+    "approved": false
+  },
+  {
+    "id": "0028",
+    "name": "Brustkorb-Aufrichtung im Sitz",
+    "region": "BWS",
+    "approved": false
+  },
+  {
+    "id": "0029",
+    "name": "Beckenkippen in Rückenlage",
+    "region": "LWS",
+    "approved": false
+  },
+  {
+    "id": "0030",
+    "name": "Bird Dog",
+    "region": "LWS",
+    "approved": false
+  },
+  {
+    "id": "0031",
+    "name": "Dead Bug",
+    "region": "LWS",
+    "approved": false
+  },
+  {
+    "id": "0032",
+    "name": "Unterarmstütz",
+    "region": "LWS",
+    "approved": false
+  },
+  {
+    "id": "0033",
+    "name": "Seitstütz auf Knien",
+    "region": "LWS",
+    "approved": false
+  },
+  {
+    "id": "0034",
+    "name": "Knie-zur-Brust in Rückenlage",
+    "region": "LWS",
+    "approved": false
+  },
+  {
+    "id": "0035",
+    "name": "Lendenrotation in Rückenlage",
+    "region": "LWS",
+    "approved": false
+  },
+  {
+    "id": "0036",
+    "name": "Glute Bridge",
+    "region": "LWS",
+    "approved": false
+  },
+  {
+    "id": "0037",
+    "name": "Hip Hinge mit Stab",
+    "region": "LWS",
+    "approved": false
+  },
+  {
+    "id": "0038",
+    "name": "Bauchspannung in Rückenlage",
+    "region": "LWS",
+    "approved": false
+  },
+  {
+    "id": "0039",
+    "name": "Clamshell",
+    "region": "Hüfte",
+    "approved": false
+  },
+  {
+    "id": "0040",
+    "name": "Seitliches Beinheben",
+    "region": "Hüfte",
+    "approved": false
+  },
+  {
+    "id": "0041",
+    "name": "Hüftstreckung im Stand",
+    "region": "Hüfte",
+    "approved": false
+  },
+  {
+    "id": "0042",
+    "name": "Hüftbeugerdehnung im Kniestand",
+    "region": "Hüfte",
+    "approved": false
+  },
+  {
+    "id": "0043",
+    "name": "Piriformis-Dehnung in Rückenlage",
+    "region": "Hüfte",
+    "approved": false
+  },
+  {
+    "id": "0044",
+    "name": "Seitwärtsschritte mit Miniband",
+    "region": "Hüfte",
+    "approved": false
+  },
+  {
+    "id": "0045",
+    "name": "Einbeinstand",
+    "region": "Hüfte",
+    "approved": false
+  },
+  {
+    "id": "0046",
+    "name": "Aufstehen vom Stuhl",
+    "region": "Hüfte",
+    "approved": false
+  },
+  {
+    "id": "0047",
+    "name": "Hüftabduktion im Stand",
+    "region": "Hüfte",
+    "approved": false
+  },
+  {
+    "id": "0048",
+    "name": "Adduktorendehnung im Sitz",
+    "region": "Hüfte",
+    "approved": false
+  },
+  {
+    "id": "0049",
+    "name": "Kniestreckung im Sitzen",
+    "region": "Knie",
+    "approved": false
+  },
+  {
+    "id": "0050",
+    "name": "Fersenrutschen in Rückenlage",
+    "region": "Knie",
+    "approved": false
+  },
+  {
+    "id": "0051",
+    "name": "Mini-Kniebeuge",
+    "region": "Knie",
+    "approved": false
+  },
+  {
+    "id": "0052",
+    "name": "Step-up auf niedrige Stufe",
+    "region": "Knie",
+    "approved": false
+  },
+  {
+    "id": "0053",
+    "name": "Terminal Knee Extension mit Band",
+    "region": "Knie",
+    "approved": false
+  },
+  {
+    "id": "0054",
+    "name": "Quadrizeps-Anspannung in Rückenlage",
+    "region": "Knie",
+    "approved": false
+  },
+  {
+    "id": "0055",
+    "name": "Hamstring Curl im Stand",
+    "region": "Knie",
+    "approved": false
+  },
+  {
+    "id": "0056",
+    "name": "Seitliches Step-down",
+    "region": "Knie",
+    "approved": false
+  },
+  {
+    "id": "0057",
+    "name": "Wandsitz kurz",
+    "region": "Knie",
+    "approved": false
+  },
+  {
+    "id": "0058",
+    "name": "Einbeinstand mit Kniekontrolle",
+    "region": "Knie",
+    "approved": false
+  },
+  {
+    "id": "0059",
+    "name": "Beidbeiniges Fersenheben",
+    "region": "Sprunggelenk",
+    "approved": false
+  },
+  {
+    "id": "0060",
+    "name": "Einbeiniges Fersenheben",
+    "region": "Sprunggelenk",
+    "approved": false
+  },
+  {
+    "id": "0061",
+    "name": "Fußspitzenheben im Stand",
+    "region": "Sprunggelenk",
+    "approved": false
+  },
+  {
+    "id": "0062",
+    "name": "Sprunggelenkkreisen",
+    "region": "Sprunggelenk",
+    "approved": false
+  },
+  {
+    "id": "0063",
+    "name": "Dorsalextension an der Wand",
+    "region": "Sprunggelenk",
+    "approved": false
+  },
+  {
+    "id": "0064",
+    "name": "Eversion mit Theraband",
+    "region": "Sprunggelenk",
+    "approved": false
+  },
+  {
+    "id": "0065",
+    "name": "Inversion mit Theraband",
+    "region": "Sprunggelenk",
+    "approved": false
+  },
+  {
+    "id": "0066",
+    "name": "Einbeinstand auf festem Boden",
+    "region": "Sprunggelenk",
+    "approved": false
+  },
+  {
+    "id": "0067",
+    "name": "Handtuchgreifen mit Zehen",
+    "region": "Sprunggelenk",
+    "approved": false
+  },
+  {
+    "id": "0068",
+    "name": "Großzehenextension im Sitz",
+    "region": "Sprunggelenk",
+    "approved": false
+  },
+  {
+    "id": "0069",
+    "name": "Bizepscurl ohne Gewicht",
+    "region": "Ellenbogen",
+    "approved": false
+  },
+  {
+    "id": "0070",
+    "name": "Trizepsstreckung mit Band",
+    "region": "Ellenbogen",
+    "approved": false
+  },
+  {
+    "id": "0071",
+    "name": "Handgelenkextension exzentrisch",
+    "region": "Ellenbogen",
+    "approved": false
+  },
+  {
+    "id": "0072",
+    "name": "Unterarmpronation und -supination",
+    "region": "Ellenbogen",
+    "approved": false
+  },
+  {
+    "id": "0073",
+    "name": "Finger spreizen mit Gummiband",
+    "region": "Hand",
+    "approved": false
+  },
+  {
+    "id": "0074",
+    "name": "Faustschluss und Fingerstreckung",
+    "region": "Hand",
+    "approved": false
+  },
+  {
+    "id": "0075",
+    "name": "Daumenopposition",
+    "region": "Hand",
+    "approved": false
+  },
+  {
+    "id": "0076",
+    "name": "Handgelenkbeugung ohne Gewicht",
+    "region": "Hand",
+    "approved": false
+  },
+  {
+    "id": "0077",
+    "name": "Gewichtsverlagerung im Stand",
+    "region": "Ganzkörper",
+    "approved": false
+  },
+  {
+    "id": "0078",
+    "name": "Tandemstand",
+    "region": "Ganzkörper",
+    "approved": false
+  },
+  {
+    "id": "0079",
+    "name": "Tandemgang",
+    "region": "Ganzkörper",
+    "approved": false
+  },
+  {
+    "id": "0080",
+    "name": "Marschieren auf der Stelle",
+    "region": "Ganzkörper",
+    "approved": false
+  },
+  {
+    "id": "0081",
+    "name": "Sit-to-Stand langsam",
+    "region": "Ganzkörper",
+    "approved": false
+  }
+]
