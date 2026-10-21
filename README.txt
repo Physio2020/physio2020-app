@@ -1,8 +1,6 @@
-PHYSIO 2020 – OFFLINE-PROTOTYP
+PHYSIO 2020 – Layout-Test v2
 
-Die ZIP enthält den Quellcode einer installierbaren Web-App.
-Für die Installation auf dem iPad muss der Ordner über eine HTTPS-Webadresse bereitgestellt werden. Safari öffnen, einmal vollständig laden, dann Teilen > Zum Home-Bildschirm. Danach Offline-Funktion testen (Flugmodus).
-
-WICHTIG: Das direkte Öffnen von index.html aus der Dateien-App installiert KEINE PWA.
-
-Dieser erste Prototyp enthält 81 Übungsnamen, Suche und individuelle Dosierung. Die Diagnose-/Muskel-Tags sind grobe Platzhalter. Die Druckansicht zeigt drei Übungen pro A4-Seite, jedoch NOCH NICHT das freigegebene bebilderte PDF-Layout oder die Original-Logoschleife. Der Druckdialog kann auf dem iPad zum Sichern als PDF genutzt werden. Es werden keine Patientendaten erhoben und Pläne nicht dauerhaft gespeichert.
+Alle 7 Dateien in das GitHub-Repository hochladen und bestehende Dateien ersetzen.
+Bei der Auswahl exakt 0001, 0002, 0003 in dieser Reihenfolge erscheint die freigegebene bebilderte Vorlage mit individuellen Trainingswerten. Andere Kombinationen verwenden weiterhin die einfache Entwurfs-Druckansicht.
+Die Vorlage ist als Bild eingebunden; der Druck ist noch kein vollwertiger allgemeiner PDF-Generator.
+Nach GitHub-Aktualisierung App mit Internet öffnen und anschließend Offline-Betrieb erneut prüfen.
